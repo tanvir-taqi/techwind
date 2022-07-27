@@ -56,3 +56,13 @@
     border: 1px solid #289BDE;
 
 }
+.ready-to-bg{
+    background-color: #289BDE;
+}
+.ready-btn{
+    text-shadow: 0.1px 0.1px 0.1px black;
+    color: #289BDE;
+}
+.blue-color{
+    color: #289BDE;
+}
