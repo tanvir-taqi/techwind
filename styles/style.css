@@ -21,13 +21,38 @@
     background:#289BDE ;
     color: white;
 }
-.get-started-btn{
+.get-started-btn, .view-btn{
     background:#289BDE ;
     color: white;
+ 
+    transition: all 0.2s ease-in;
+
 }
-.course-card{
-    width: 450px;
+
+.get-started-btn:hover, .view-btn:hover{
+    background:linear-gradient(30deg, #289bde91 , #289bdeee);
+    color: white;
+   
 }
+
 .price-color{
     color: #289BDE;
+}
+.terms-privacy{
+    color: white;
+    transition: all 0.3s ease;
+}
+.terms-privacy:hover{
+    color: #289BDE;
+   
+}
+
+.icon{
+    border: 1px solid transparent;
+    border-radius: 50%;
+}
+
+.icon:hover{
+    border: 1px solid #289BDE;
+
 }
