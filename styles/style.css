@@ -25,3 +25,9 @@
     background:#289BDE ;
     color: white;
 }
+.course-card{
+    width: 450px;
+}
+.price-color{
+    color: #289BDE;
+}
