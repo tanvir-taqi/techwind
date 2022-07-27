@@ -1,0 +1,23 @@
+
+.my-brand{
+    color: rgba(0, 0, 0, 0.904);
+    letter-spacing: 0.8px;
+}
+
+.menu-link{
+    color: black;
+    transition: all 0.2s ease-in;
+
+}
+.menu-link:hover{
+    color: #289BDE;
+}
+.btn-register{
+    color: #289BDE;
+    border: 1px solid #289BDE;
+    transition: all 0.2s ease-in;
+}
+.btn-register:hover{
+    background:#289BDE ;
+    color: white;
+}
