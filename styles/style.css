@@ -9,15 +9,15 @@
     transition: all 0.2s ease-in;
 
 }
-.menu-link:hover{
+.menu-link:hover {
     color: #289BDE;
 }
-.btn-register{
+.btn-register {
     color: #289BDE;
     border: 1px solid #289BDE;
-    transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in-out;
 }
-.btn-register:hover{
+.btn-register:hover , .read-more-btn:hover{
     background:#289BDE ;
     color: white;
 }
@@ -25,15 +25,15 @@
 .car-img{
     filter: brightness(50%);
 }
-.get-started-btn, .view-btn{
+.get-started-btn, .view-btn ,.read-more-btn , .view-more-btn{
     background:#289BDE ;
     color: white;
  
-    transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in-out;
 
 }
 
-.get-started-btn:hover, .view-btn:hover{
+.get-started-btn:hover, .view-btn:hover , .read-more-btn:hover , .view-more-btn:hover{
     background:linear-gradient(30deg, #289bde91 , #289bdeee);
     color: white;
    
