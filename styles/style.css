@@ -21,6 +21,10 @@
     background:#289BDE ;
     color: white;
 }
+
+.car-img{
+    filter: brightness(50%);
+}
 .get-started-btn, .view-btn{
     background:#289BDE ;
     color: white;
